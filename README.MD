@@ -7,3 +7,4 @@ The task is to apply the concepts learned so far: HTML, CSS, Visual Design, Acce
 This is part four of five. The project is to create a technical documentation page.
 
 You can see the live version here:
+https://alexissolanop.github.io/technical_documentation_page/
